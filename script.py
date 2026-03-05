@@ -1,0 +1,8 @@
+from datetime import datetime
+
+def main():
+    print("Hello from GitHub Actions!")
+    print("Current time:", datetime.now())
+
+if __name__ == "__main__":
+    main()
